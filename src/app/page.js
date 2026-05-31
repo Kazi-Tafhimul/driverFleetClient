@@ -11,8 +11,8 @@ export default function Home() {
       <Hero></Hero>
       <FeaturesSection></FeaturesSection>
       <HowItWorksSection></HowItWorksSection>
-      <Footer></Footer>
       
+
     </div>
     
   );
